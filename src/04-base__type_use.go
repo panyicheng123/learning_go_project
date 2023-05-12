@@ -12,3 +12,7 @@ package main
 	float32 float64
 	complex64 complex128
 */
+
+func main() {
+
+}
