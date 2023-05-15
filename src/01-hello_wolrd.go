@@ -23,7 +23,7 @@ import (
 */
 
 func main() {
-	fmt.Printf("hello wolrd !\n") // printf 只可输出字符串  不会换行
+	fmt.Printf("hello wolrd !\n") // printf 格式化输出
 	fmt.Printf("this is my first time to use go\n")
 	fmt.Printf("let is generate a random int number\n")
 	fmt.Println(rand.Intn(10)) // println  可以输出任意值 默认会换行
